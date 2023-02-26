@@ -34,13 +34,13 @@ Para el disco es importante que escoja una cantidad mayor a 25 GB, este espacio 
 ###Pasos en la instalación de Ubuntu dentro de la VM
 
 Seleccione su lenguaje de preferencia y la opción de install Ubuntu
-![Install Ubuntu](imags/vm4_1.jpeg)
+![Install Ubuntu](/imags/vm4_1.jpeg)
 
 Seleccione el keyboard layout de su preferencia
 
 En este punto talvez no pueda cliclear el boton de siguiente, utilice tab, flechas y enter para continuar. (flecha derecha 2 veces)
 
-![Keyboard](imags/vm4_2.jpeg)
+![Keyboard](/imags/vm4_2.jpeg)
 
 ![Minimal installation](imags/vm4_3.jpeg)
 
@@ -59,7 +59,7 @@ Para poder agrandar la pantalla, vaya a Entrada/Insertar imagen de CD de las Gue
 
 Luego abra la carpeta, click derecho y abrir en terminal
 
-![Open in terminal](imags/vm4_7.jpeg)
+![Open in terminal](/imags/vm4_7.jpeg)
 
 Corra el archivo autorun.sh con `./autorun.sh` y espere a que termine el proceso
 
