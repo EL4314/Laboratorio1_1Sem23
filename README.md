@@ -124,8 +124,8 @@ Este laboratorio se evaluará con la siguiente rúbrica
 |Uso de repositorio |20|   |    |   |    |
 
 C: Completo,
-EP: En progreso,
-D: Deficiente,
-NP: No presenta
+EP: En progreso ($\times 0,8$),
+D: Deficiente ($\times 0,5$),
+NP: No presenta ($\times 0$)
 
 - El uso del repositorio implica que existan contribuciones de todos los miembros del equipo. El último _commit_ debe registrarte antes de las 23:59 del miércoles 15 de marzo de 2023.
