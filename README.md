@@ -19,7 +19,7 @@ En este laboratorio usted implementará un [filtro FIR](https://es.wikipedia.org
 
 Un filtro FIR se define matemáticamente como:
 
-$$\displaystyle y_{n}=\sum _{k=0}^{N-1}b_{k}x_{n-k}$$
+$$ \displaystyle y_{n}=\sum _{k=0}^{N-1}b_{k}x_{n-k} $$
 
 lo cual se puede expresar alternativamente como:
 
