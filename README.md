@@ -18,14 +18,13 @@ Una vez que ya tenga su máquina virtual, o si ya cuenta con una instalación na
 En este laboratorio usted implementará un [filtro FIR](https://es.wikipedia.org/wiki/FIR_(Finite_Impulse_Response)) (_Finite Impulse Response_) empleando lenguaje ensamblador para RV32I. Dicho filtro se ejecutará en un sistema en chip (SoC), creado con LiteX, y en el cual se tendrá un _core_ de RISC-V.
 
 Un filtro FIR se define matemáticamente como:
-
 $$ y_{n}=\sum _{k=0}^{N-1}b_{k}x_{n-k} $$
 
 lo cual se puede expresar alternativamente como:
 
 ```math
- y[n] & = b_{0}x[n]+b_{1}x[n-1]+\cdots +b_{N}x[n-N]\\
-     & = \sum _{i=0}^{N}b_{i}\cdot x[n-i] \\
+ y[n]  = b_{0}x[n]+b_{1}x[n-1]+\cdots +b_{N}x[n-N]\\
+     = \sum _{i=0}^{N}b_{i}\cdot x[n-i] 
 ```
 
 
