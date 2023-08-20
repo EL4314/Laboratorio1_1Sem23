@@ -19,15 +19,15 @@ En este laboratorio usted implementará un [filtro FIR](https://es.wikipedia.org
 
 Un filtro FIR se define matemáticamente como:
 
-$  y_{n}=\sum _{k=0}^{N-1}b_{k}x_{n-k} $
+$$ y_{n}=\sum _{k=0}^{N-1}b_{k}x_{n-k} $$
 
 lo cual se puede expresar alternativamente como:
 
-$$
- \begin{aligned}y[n] & = b_{0}x[n]+b_{1}x[n-1]+\cdots +b_{N}x[n-N]\\ 
+```math
+ y[n] & = b_{0}x[n]+b_{1}x[n-1]+\cdots +b_{N}x[n-N]\\
      & = \sum _{i=0}^{N}b_{i}\cdot x[n-i] \\
-     \end{aligned}
-$$
+```
+
 
 Como se observa de las anteriores ecuaciones, el cálculo de la salida $y[n]$ depende de las muestras (entradas) $x[n]$ y las anteriores hasta la $x[n-N]$. Para el caso del filtro a implementar, 5-tap, requerira de la muestra $x[n]$ y las anteriores 4. 
 
