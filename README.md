@@ -94,7 +94,7 @@ En la carpeta `lab1` de este repositorio se encuentra el código de referencia a
 
 
 ```makefile
-OBJECTS   = "helloc.o add_asm.o add.o fir_asm.o fir.o crt0.o main.o"
+OBJECTS="helloc.o add_asm.o add.o fir_asm.o fir.o crt0.o main.o"
 ```
 
 Una vez realizadas las modificaciones necesarias, desde la carpeta `lab1` podrá ejecutar un script de Python que se encargará de disparar la compilación 
