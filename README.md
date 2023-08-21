@@ -7,9 +7,7 @@
 
 ### Preámbulo
 
-Para el desarrollo de este laboratorio, usted deberá contar con una instalación de Linux, ya sea de forma nativa o mediante una máquina virtual. La siguiente es una [guía de creación de una máquina virtual con Ubuntu 22.04 LTS](https://github.com/EL4314/Laboratorio1_1Sem23/wiki/Guia_VM).
-
-Una vez que ya tenga su máquina virtual, o si ya cuenta con una instalación nativa, proceda a instalar LiteX con la siguiente [guía instalación de LiteX](https://github.com/EL4314/Laboratorio1_1Sem23/wiki/Guia_instalacion_LiteX).
+Para el desarrollo de este laboratorio, usted deberá contar con una instalación de liteX, ya sea de forma nativa o mediante una máquina virtual. En la [wiki](https://github.com/EL4314/Laboratorio1_1Sem23/wiki/Home) de este repositorio se tiene una serie de guías que lo ayudaran a tener ya sea una maquina virtual con liteX o un contenedor de docker con liteX. 
 
 <br/><br/>
 
